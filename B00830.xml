@@ -1,0 +1,1106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe treatise, concerning the vse and abuse of dauncing. Collected oute of the learned workes of the most excellent deaine doctour, Peter Martyr, by paister Rob Massonius: and translated into English by I.K.</title>
+            <author>Vermigli, Pietro Martire, 1499-1562.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00830</idno>
+            <idno type="STC">ESTC R224564</idno>
+            <idno type="STC">STC 24664</idno>
+            <idno type="STC">ESTC R224564</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.1999[3]</idno>
+            <idno type="EEBO-CITATION">99892568</idno>
+            <idno type="PROQUEST">ocm99892568</idno>
+            <idno type="VID">183665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183665)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:1[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe treatise, concerning the vse and abuse of dauncing. Collected oute of the learned workes of the most excellent deaine doctour, Peter Martyr, by paister Rob Massonius: and translated into English by I.K.</title>
+                  <author>Vermigli, Pietro Martire, 1499-1562.</author>
+                  <author>I. K.</author>
+               </titleStmt>
+               <extent>[54] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Iugge, dwellyng at the north doore of Paules,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1580?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B D⁴.</note>
+                  <note>Date of publication conjectured by STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dancing --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183665:1" rendition="simple:additions"/>
+            <pb facs="tcp:183665:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A briefe Treatiſe, <hi>Concerning the vſe and</hi>
+abuſe of Dauncing.</p>
+            <p>
+               <hi>Collected oute of the</hi> learned workes of the moſt
+excel<g ref="char:EOLhyphen"/>lent <hi>Deuine Doctour, <hi>Peter Mar<g ref="char:EOLhyphen"/>tyr,</hi> by Maiſter <hi>Rob.
+Maſsonius:</hi> And tranſlated into Engliſh by</hi> I. K.</p>
+            <q>
+               <bibl>
+                  <hi>Eccleſiaſti. 9. ver. 4.</hi>
+               </bibl> 
+               <p>¶ Vſe not the company of a vvoman that is a ſynger, and a
+dauncer: neither heare her, leaſt thou be ta<g ref="char:EOLhyphen"/>ken by her
+craftineſſe.</p>
+            </q>
+            <p>¶ Imprinted at Lon<g ref="char:EOLhyphen"/>don <hi>by</hi> Iohn Iugge, <hi>dwellyng
+at the North doore of Poules.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183665:2" rendition="simple:additions"/>
+            <pb facs="tcp:183665:2"/>
+            <head>To the ryght worſhyp<g ref="char:EOLhyphen"/>full <hi>Maister Alexander</hi> Nowell,
+Deane of the Cathedrall Church <hi>of Saint</hi> Paul: <hi>Happie health with
+grace from God.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Auing (right</hi> wor<g ref="char:EOLhyphen"/>ſhypfull) a Treatiſe ſent vnto
+mee to be Imprin<g ref="char:EOLhyphen"/>ted, as touching the vſe and abuſe of dauncing: Collected
+out of the works of the moſt worthie, and wel learned Deuine Doctour,
+<hi>Peter Martir.</hi> I fancied to preſent the ſame (eſpeciallie and
+aboue the reſt) to your worshyp and worthie perſon, onely enforced thereto
+by the common brute of your rare zeale, ſingular vertue, and godly
+Religion.</p>
+            <p>The partie by whoſe penne and paine it was tranſlated, and
+chaunged from Ro<g ref="char:EOLhyphen"/>maine robe, to English veſture, is both vertuous, learned,
+and godlie: and being ſtirred, as it were ſtinged foreward of ve<g ref="char:EOLhyphen"/>rie zeale,
+ſeeing theſe diſordred and daly daunſings in the rude Countrey, marring
+mennes manners, breeding much beaſtly <pb facs="tcp:183665:3"/> behauiour: and being
+deſirous to haue ſuch rudeneſſe reformed in thoſe quarters where he
+is acquainted, requeſted and wyld me to procure in print the publish<g ref="char:EOLhyphen"/>ing
+thereof: VVhich hauing accom<g ref="char:EOLhyphen"/>plished, I moſt humbly preſent the ſame to
+your vvorshyppe, emboldned the ra<g ref="char:EOLhyphen"/>ther vnder your name to haue it publish<g ref="char:EOLhyphen"/>ed
+and put forth in print, to the vew of the worlde, for that it hath bene
+ouerloo<g ref="char:EOLhyphen"/>ked and lyked of Diuines, zealous, Reli<g ref="char:EOLhyphen"/>gious, learned, and godly.
+VVherfore de<g ref="char:EOLhyphen"/>ſiring you good Maſter <hi>Nowell,</hi> ſo it may bee taken
+as a token of my good wyll to your vvorshyppe: I forbeare any farther to
+moleſt you with my vnlettered lynes, beſeching the euer and ouer ruling
+<hi>Iehoua</hi> through his Chriſt Ieſus our only ioy, to continue his good
+bleſsings vpon you, and to make perfect the good he hath begunne in you, and
+in vs all. Amen.</p>
+            <closer>
+               <signed>¶<hi>Your vvorshippes to commaund.
+T.K.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183665:3"/>
+            <head>
+               <g ref="char:leaf">❧</g>To the Chriſtian <hi>Reader.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hat I, who am as</hi> I am. Vndertake this ma<g ref="char:EOLhyphen"/>ter (good
+Chriſtian) when other of our Engliſh Na<g ref="char:EOLhyphen"/>tion, wryting both learnedly with
+iudge<g ref="char:EOLhyphen"/>ment, and zealouſly with knowledge, a<g ref="char:EOLhyphen"/>gainſt diuerſe and ſundry
+abuſes crept in amongſt vs, nothing or very lytle handle the ſame, may to
+many perhaps, who are lyghtly wayed to the worſe parte, offer occaſion of
+this common obiection: What meaneth he to medle with this thing, ſee<g ref="char:EOLhyphen"/>ing hee
+ſéeth others holde their peace? what? thinketh he if it were ſo
+neceſſarie and néedefull a thing to bée publiſhed in print,
+that among ſo many Bookes, there ſhoulde bée none, or nothing in
+them ſet foorth? This kinde of cauell, becauſe I ſée it firſt
+&amp; moſt of all others in the mouthes of many, it ſéemed not
+therefore to mée a myſſe at the firſt to méete herewith:
+aſ<g ref="char:EOLhyphen"/>well to remoue the ſiniſter opinion they conceaue (I dare ſay) of
+the godly, as alſo the preiudiciall verdite this maye bréede 
+<pb facs="tcp:183665:4"/> vppon this my true, though not trimme ſtyle of wryting. Whether
+there bée not diuerſe that haue writte<g ref="char:cmbAbbrStroke">̄</g> fréely &amp; franklie
+againſt the abuſe of Dauncing, not onely in the Latin and French, but
+likewiſe in our mother tongue: who wyll plucke the beame out of his eyes,
+maye ſoone eſpie. But why our late learned men haue not purpoſely penned
+ſome péece of work, (if it be long agoe or lytle, theſe men forget
+it, or neuer ſée it) foraſmuch as it may be imputed to the want,
+neyther of wyll nor abilitie, to what it maye bee, I certainly know not: for
+who knoweth what things are in man, ſauing God and the ſpirit in him) yet
+to vſe a probable coniecture, I take the occaſion to be in theſe vertuous
+perſons: Becauſe God hath eyther geuen the<g ref="char:cmbAbbrStroke">̄</g> the peaceable ſtate of
+<hi>Salomon,</hi> y<hi rend="sup">t</hi> they néede not come forth into the fielde: or if
+not the peaceable ſtate, yet the ready yéel<g ref="char:EOLhyphen"/>ding of the people vnder
+<hi>EZra,</hi> that there required no aſſaulte to be geuen: or if not the
+ready yéelding, yet the ſpeedy conqueſt of captaine
+<hi>Ioſua,</hi> that the onely certayne ſounde of the Trumpe, the
+ſcripture hath ouerthrowne the walles of <hi>Iericho:</hi> and the walles
+ouerthrown, the bright Lamps <pb facs="tcp:183665:4"/> of the goſpell ſo ſhined out of
+their earthe<g ref="char:cmbAbbrStroke">̄</g> veſſelles, that the eyes of the aduerſaries wer in ſuch
+ſort daſeled, that <hi>Phineas</hi> with his ſpeare thruſt this
+<hi>Madianitishe</hi> wo<g ref="char:EOLhyphen"/>man cleane thorow: or if none of all theſe come to
+paſſe, (as oft times for the aboun<g ref="char:EOLhyphen"/>daunce of our iniquityes in theſe
+latter dayes they doo not) yet becauſe God hath ſent them a
+<hi>Moyſes</hi> zelouſe in his cauſe,<note place="margin">
+                  <hi>Exo.</hi>
+32.19</note> to put downe ſuch outragious paſtime, that theyr ſhoulders
+are eaſed of this heauye burthen. But wyll ſome <hi>Saloms</hi> ſay, this
+compariſon you make betwéene vs, &amp; the chyldren of
+<hi>Iſrael,</hi> is odious. Farre bée it from vs, that our diſporte
+ſhould be lyke, or lykened vnto theyre. Whether there be ſuch diſſolute
+diſportes in all places or no, I am vtterly ignoraunt, and God for byd there
+ſhoulde: Neyther include I in this my compariſon all manner of daun<g ref="char:EOLhyphen"/>ces, no
+more then mine Author doth, and ſo I beſéeche thée (gentle
+Reader) inter<g ref="char:EOLhyphen"/>prete both our meanings. But truely to reporte what I haue hearde
+with myne eares, ſéene with mine eyes, and myne handes haue as it were
+handled, I ſée no cauſe why ours &amp; theirs may not iuſtlye
+hée coupled together.</p>
+            <p>
+               <pb facs="tcp:183665:5"/>Theyrs (who knoweth not) tended to the diſhonouring
+of God: and to tell thée how many wayes God is diſhonored by ours: I
+maye deale with thée, as the ſpyrite of the Lord dealt with the
+Prophet <hi>Ezechiel. Sonne of man, beholde the abhominations flo<g ref="char:EOLhyphen"/>wing out of
+this filthy fountaine.</hi>
+               <note place="margin">Math. 12.36.</note> 
+               <hi>For
+euerye ydle worde that man shall ſpeake, shall he geue accoumpt at the daye
+of iudgement:</hi> And whether at this playe, there bée any other
+almoſt, then ydle wordes vttered, if man wyll not, I call heauen and earth to
+wytneſſe. But yet turne thée, and thou ſhalt ſée greater
+abhominatio<g ref="char:cmbAbbrStroke">̄</g>s then this. <hi>That fylthy co<g ref="char:cmbAbbrStroke">̄</g>munication proceede not out of our
+mouthes,</hi>
+               <note place="margin">Eph. 4.29 &amp;. 5.3.</note> 
+               <hi>but that
+whiche is good to the vſe of edifying, that no vn<g ref="char:EOLhyphen"/>cleannes be once named
+amongſt vs, as it becommeth Saints: neither fylthines, nei<g ref="char:EOLhyphen"/>ther foolish
+talking, neither ieſting, which are things not comely, but rather geuing of
+thanks,</hi> we are by the Apoſtle charged. And whether at theſe meetinges,
+theſe thinges bée not commonly vſed: notwith<g ref="char:EOLhyphen"/>ſtanding, wée
+finde them forbidden vs by Gods worde: if the offendours wyll not geue glorie
+to the Lord God of <hi>Iſrael,</hi> by making confeſſion of their
+faultes, I ap<g ref="char:EOLhyphen"/>peale <pb facs="tcp:183665:5"/> to theyr conſcience, bearing them
+wytneſſe, &amp; theyr thoughts accuſing one another, or excuſing. But
+yet turne thée, and thou ſhalte ſee greater abhominati<g ref="char:EOLhyphen"/>ons then
+theſe. Chriſte condempneth him of adulterye, that looking vppon a wo<g ref="char:EOLhyphen"/>man
+luſteth after her:<note place="margin">Mat. 5.28</note> but quallyfying the
+condempnation of adulterye, becauſe the Lawe of man requyreth ſo precyſe
+profe: yet howe the lookes are a prouo<g ref="char:EOLhyphen"/>cation therevnto, beléeue the
+Wyſe man, and followe his good counſell. <hi>Vſe not the company of a
+woman that is a ſinger, and a dauncer, neyther heare her:</hi>
+               <note place="margin">Eccle. 9.4.</note> 
+               <hi>leaſt thou be taken in her
+craftineſſe.</hi> Gaze not on a Mayde, that thou fall not by that, that is
+precious in her. <hi>The ſonnes of God gazed on the daughters of
+men,</hi>
+               <note place="margin">Gene. 6.</note> 
+               <hi>and ſeeing them fayre, tooke
+them wiues of all that they lyked. Therefore the Lorde ſayde: my ſpirite
+shall not alwayes ſtriue with man, becauſe hee is but fleshe, his dayes
+shall be an hundered and twentye yeares.</hi>
+            </p>
+            <p>Nowe of thoſe gazinges what became? Vnlawfull copulations. Of
+theſe copu<g ref="char:EOLhyphen"/>lations what? myghty men, and of great renowne, who vſurped
+aucthoritie <pb facs="tcp:183665:6"/> ouer others, and degenerated from the ſimplicitie of
+theyr forefathers. Of theſe men what? they were myſerably drow<g ref="char:EOLhyphen"/>ned in the
+great deluge. Beholde of this ſmall ſparkle, what raging fyre of
+concu<g ref="char:EOLhyphen"/>piſcence flameth: &amp; ſée of this lytle droppe what a
+wonderfull huge water falleth fro<g ref="char:cmbAbbrStroke">̄</g> out the windowes of Heauen, and iſſueth
+from the bowels of the earth, to quenche this furious fyre, and that about the
+be<g ref="char:EOLhyphen"/>ginning of Maie, when all things floriſh. You O ye ſonnes of men
+kéepe company with dauncing Damſels, you gaze vpon them in the moneth
+of Maie: beware, you heare out of Gods owne mouth, what e<g ref="char:EOLhyphen"/>uyll endes enſue.
+<hi>A wyſe man wyll not enter the brimmes of daungerous depths, leaſt he
+ſoddainly ſlippe ouer headde and eares:</hi> Theſe be the brimmes, come
+not nighe them my beloued, (you are not, I feare mée, all
+<hi>Ioſephs</hi>) come not nigh them. For though the Rainebow be a certaine
+ſigne, that neyther of the Heauen aboue, nor of the earth beneath, the water
+wyll deſtroy you: yet wyll there fyre deſcend from the throane of the
+almighty <hi>Iehouah</hi> &amp; with brimſtone aſcende out of the fiery
+lake,<note place="margin">
+                  <hi>Reuel.</hi> 21.8</note> to bée a portion for
+them that pro<g ref="char:EOLhyphen"/>céede <pb facs="tcp:183665:6"/> to the ende of theſe beginninges.</p>
+            <p>But yet turne thée &amp; thou ſhalt ſée grea<g ref="char:EOLhyphen"/>ter
+abhominations then theſe. Idleneſſe, and Pride, two notable vices
+ſpring alſo herehence, as the maſters of many, for the one, who ſee it
+by experience in theyr buſineſſe: And for the other theyr gaye geare
+aboue their degrée &amp; habilitie, their prowde behauiour and wordes
+towards their betters, their rude maners towards their elders, well
+wytneſſe and declare. The chyldren of <hi>Iſraelles</hi> dauncing was
+done to the golden Calfe, and therefore Idolatry: oures though to tearme it
+Ido<g ref="char:EOLhyphen"/>latry, would ſéeme to ſome, not ſo ſtrau<g ref="char:cmbAbbrStroke">̄</g>ge as vntrue, yet
+in diuerſe qualities dot hit agrée therewith.</p>
+            <p>The Apoſtle calleth a couetous perſon an Idolater,<note place="margin">
+                  <hi>Ephe.</hi> 5.5.</note> not becauſe he cauſeth an I<g ref="char:EOLhyphen"/>doll to
+be made and ſet vp, that bée might adore and worſhip the ſame: but
+becauſe he ſerueth Mammon, and who ſo ſerueth Mammon, cannot ſerue
+God, and who ſo ſerueth his ryches, whe<g ref="char:cmbAbbrStroke">̄</g> they ſhould ſerue him, is an
+Idolater. In lyke ſorte, who ſo leaueth the ſeruice of God, to ſerue
+his dauncing, &amp; who ſo taketh more delyght in the ſtrength of his
+legges, agilitie, and <pb facs="tcp:183665:7"/> nimbleneſſe of his ioyntes, then in the
+Goſpel of Chriſt: let the Apoſtles ſente<g ref="char:cmbAbbrStroke">̄</g>ce-iudge what he is, and for
+my parte, I ſay nothing, but that ſuch abuſe hath béene a<g ref="char:EOLhyphen"/>mongſt
+vs. Notwithſtanding, if a Chriſti<g ref="char:EOLunhyphen"/>an once creke againſt theſe workes of
+the fleſh, and with as gentle wordes &amp; mylde meanes, as poſſible he
+may deuiſe, ſéeke to ſuppreſſe them: Whe<g ref="char:cmbAbbrStroke">̄</g> as the very
+Hea<g ref="char:EOLhyphen"/>thens reprehend it with ſharpe tearmes, accoumpting the vſers therof
+wa<g ref="char:cmbAbbrStroke">̄</g>ton, vn<g ref="char:EOLhyphen"/>honeſt, vnchaſte, vnſober, madde, &amp; wor<g ref="char:EOLhyphen"/>thy great
+reproche: And when the faithful fathers going ſomwhat rounder to work, call
+it deuylliſh, with other lyke phraſes, as appeareth in the <hi>Tracte</hi>
+following: with cheſe colours, when theſe men blaſe theſe abuſes: if
+nowe a dayes, I ſaye, one doo but cypher, he is ſure ſtrayght wayes to be
+aſſayed with the Phariſées weapo<g ref="char:cmbAbbrStroke">̄</g>s: eyther with ouer curious
+reaſons of ma<g ref="char:cmbAbbrStroke">̄</g>s deuyce, impertinent and wreſted places of Scriptures,
+friuolous and fruitleſſe queſtions: or if theſe preuayle not, then with
+iniurious and vniuſt ſclanders: firſt for the firſt ſorte, to touch
+onely thoſe, ey<g ref="char:EOLhyphen"/>ther vnreme<g ref="char:cmbAbbrStroke">̄</g>bred, or as it is more lykely not at all vttered
+in mine Aucthors daies, <pb facs="tcp:183665:7"/> or at leaſt thoſe, which he not vpon
+want of knowledge, but vpo<g ref="char:cmbAbbrStroke">̄</g> hope he had wrote inough (as in déede inough
+for any reaſo<g ref="char:EOLhyphen"/>nable man) wyttinglye (as it ſéemeth) o<g ref="char:EOLhyphen"/>mytted. To
+touch theſe I ſay, their chie<g ref="char:EOLhyphen"/>feſt argumentes they would faine fetche
+from the examples of the godly men and vertuous women. How ſay ye (ſay
+they) by <hi>Iepthes</hi> déere Daughter?<note place="margin">
+                  <hi>Iudg.</hi> 11.34 Iud. 15.12. Luk. 15.25</note> mett not
+ſhée her Father with Tymbrelles &amp; daunces? by the noble
+<hi>Iudith?</hi> ledde not ſhe y<hi rend="sup">e</hi> daunce her ſelfe? by the pittyfull
+father? had not be melodie, and daunceing in his houſe, for ioye his dead
+ſonne was reuiued? theſe you cannot deny were vertuous people, and theſe
+theyr doings vertuous. But good it is, yea, our bounden duety it is, to follow
+the footings of our Forefathers in theyr vertuous actions: and therefore doo we
+well in this thing, to imitate their ex<g ref="char:EOLhyphen"/>amples which are written for our
+in<g ref="char:EOLhyphen"/>ſtruction. They are (as the reſt of the Scripture) to this ende lefte in
+wry<g ref="char:EOLhyphen"/>ting: but beware, leaſt as the ſworde taken by the handle, helpeth, and
+by the poynte hurteth: ſo this which ryghtlye receaued, ſerueth for
+inſtruction, wrong<g ref="char:EOLhyphen"/>fully <pb facs="tcp:183665:8"/> receaued, &amp; taken by the wrong end,
+ſerue not to deſtruction. In the right imi<g ref="char:EOLhyphen"/>tation of our Auncients,
+thrée things are chiefly to be conſidered: fyrſt that we play not
+the deceaueable Coyner, who layeth golde vpon copper or braſſe, or ſome
+ſuch baſe mettall, to the intent y<hi rend="sup">e</hi> one might go currant by y<hi rend="sup">e</hi> meanes of
+the other: ſo that we gylde not, and floriſhe ouer the déedes of the
+wicked with the doings of the righ<g ref="char:EOLhyphen"/>teous, and then take them both as curra<g ref="char:cmbAbbrStroke">̄</g>t:
+take <hi>Iudas</hi> in with the eleuen Apoſtles, &amp; Sathan with the
+ſonnes of God, accept none as our fathers, ſauing thoſe as be the
+ſonnes of God. And ſecondarily, in theſe men we muſt not imitate al
+thinges, but onelye the good. And thirdly of the good not all too, nor in all
+reſpects: but we muſt haue herewith, theſe thrée noates in
+conſi<g ref="char:EOLunhyphen"/>deration: vpo<g ref="char:cmbAbbrStroke">̄</g> what ſpirit, in what order, to what end they dyd the<g ref="char:cmbAbbrStroke">̄</g>.
+For otherwiſe, thoſe that made their doings co<g ref="char:cmbAbbrStroke">̄</g>mendable in the ſight of
+the Lorde: if they or any of the<g ref="char:cmbAbbrStroke">̄</g> want in vs, wyl make ours abhomi<g ref="char:EOLhyphen"/>nable. For
+the two firſt of the generall diuiſion you haue the<g ref="char:cmbAbbrStroke">̄</g>, good fathers, &amp;
+god<g ref="char:EOLhyphen"/>ly Matrones: the laſt you lacke with the thrée braunches, which
+turneth the other <pb facs="tcp:183665:8"/> two into bytter wormewood, as by co<g ref="char:cmbAbbrStroke">̄</g>pa<g ref="char:EOLhyphen"/>ring the<g ref="char:cmbAbbrStroke">̄</g>
+together wyll euidently appéere. <hi>Abrahams</hi> offering vp his
+déere ſonne &amp; only <hi>Iſaack,</hi>
+               <note place="margin">
+                  <hi>Gene.</hi> 22.</note> was to him an high praiſe by the mouth
+of the Angell, ſaying: <hi>I knowe that thou feareſt God.</hi> The
+<hi>Ammonites,</hi>
+               <note place="margin">1. <hi>Kin.</hi> 11.7</note> offering vp
+their ſonnes and daughters to <hi>Moloche,</hi> is accounted an abhomination:
+becauſe the one was of the ſpirit of God, the other of the deuyls, the one
+by fayth, the other by infidelytye, the one to Gods glory, the other to y<hi rend="sup">e</hi>
+idolatrous ſeruice of <hi>Moloche.</hi>
+               <note place="margin">2. <hi>King.</hi>
+1.</note> The Prophet <hi>Elias</hi> prayer and inuocation, was ſo wel lyked
+of the Lord, that twyſe at his requeſt came fyre from Heauen, and
+conſumed the two captains with their fifties:<note place="margin">
+                  <hi>Luke.</hi> 9.54</note> 
+               <hi>James</hi> and <hi>Iohn</hi>
+aſking Chriſt their Maſter, whether they ſhould commaunde that fyre
+come downe from heauen to deuowre the <hi>Samaritans,</hi> were ſo much
+miſlyked, that they were ſharply reprehended. Beholde héere, how the
+facte being all one, the circumſtaunces make y<hi rend="sup">e</hi> one good, the other ſtarke
+naught. The Prophet moued by the ſpyrite of God, de<g ref="char:EOLhyphen"/>ſired this plague to
+fall vpon them: the A<g ref="char:EOLhyphen"/>poſtles moued by an vndiſcreet zeale, and ignoraunt
+of what ſpyrite they were, re<g ref="char:EOLhyphen"/>quyred <pb facs="tcp:183665:9"/> the lyke. <hi>Ahaziah</hi>
+the wicked Apoſtatate, vnder the pretence of holynes ſent to ſlea the
+Prophete: the <hi>Samaritanes</hi> denied, but lodging to Chriſt as he
+paſſed bye. The Prophete had to deale with the<g ref="char:cmbAbbrStroke">̄</g>, that hauing the worde of
+God, forſooke it: the Apoſtles with them that neuer knew the ſame. The
+Prophete at the plea<g ref="char:EOLhyphen"/>ſure of almighty God, called downe fire from aboue, to
+ſhewe forth his glorye: the Apoſtles by humane affection, were pricked to
+reuenge the iniury. The Prophet was ſent to puniſh the infidelity of the
+<hi>Iſraelits</hi> (as it may lykewiſe appéere by his kylling the
+fowre hundreth &amp; fiftie Prophetes of <hi>Baall,</hi>
+               <note place="margin">1.
+<hi>Kin.</hi> 18.</note> &amp; of the groues fowre hundreth:) the Apoſtles
+were ſent to preach the Goſpell, and not to puniſh the contemners
+thereof, except extraordina<g ref="char:EOLhyphen"/>rily: neyther was their Maſters kingdom of this
+world, that his ſeruauntes ſhould defende or reuenge his quarrell by any
+ſuch meanes.</p>
+            <p>Now as we haue labored in laying theſe togeather, (and muche the
+more becauſe lyke the Captaine we would beſtowe the greateſt part of our
+paines, in batteryng this your principalleſt bulwarke: for this <pb facs="tcp:183665:9"/>
+once wonne, that ye haue no hold of ſcrip<g ref="char:EOLhyphen"/>ture, (as trueth you haue not) many
+of your ſouldiours wyll ſoone, I doubt not, yéelde) ſo ſet we
+theirs and yours, the one by the others. The Daughter of Iudge <hi>Iepthes,
+Iudith,</hi> &amp; the good Father, delygh<g ref="char:EOLhyphen"/>ted in daunceing, and daunced ſome
+them ſelues: you in this poynt doo the lyke. But go further with the<g ref="char:cmbAbbrStroke">̄</g> in this
+wide wil<g ref="char:EOLhyphen"/>derneſſe of the worlde, vntyll you come, (as <hi>Herculus</hi>
+dyd) to the two wayes, the one vertuous, the other voluptuous: and they enter
+the waye of vertue, you of vo<g ref="char:EOLhyphen"/>luptuouſneſſe, as apparauntlye declare your
+vſuall &amp; wanton wordes, laſciuious ieſtures, and vnchaſt behauiour.
+If you can ſay that good men, and godly women, haue vſed this exerciſe,
+you haue ſayd, you ſuppoſe ſomething. But alas, this ſome thing is
+nothing, by that time you co<g ref="char:cmbAbbrStroke">̄</g>ferre it with thoſe three thinges, that make or
+marre all. For though the external actio<g ref="char:cmbAbbrStroke">̄</g>s be in a manner all one, as were
+thoſe of <hi>Abraham,</hi> and the <hi>Ammonits <hi>Elias,</hi>
+               </hi> and the
+two diſciples, <hi>Iames,</hi> and <hi>Iohn,</hi> yet the cauſe, the maner,
+&amp; the end, make as great differe<g ref="char:cmbAbbrStroke">̄</g>ce in theſe, as they did in thoſe. The
+cauſe of the chaſte Virgin, &amp; worthy wo<g ref="char:EOLhyphen"/>ma<g ref="char:cmbAbbrStroke">̄</g>s <pb facs="tcp:183665:10"/> dauncing,
+was in token of a ioyfull hart y<hi rend="sup">t</hi> the Lord had geuen them or theyr friendes
+victory ouer their, and the Lords enemies: your cauſe to ſatiſfye your
+vo<g ref="char:EOLhyphen"/>luptuous pleaſure. Theyr manner was modeſt &amp; moderate to refreſh
+their minds &amp; recreate theyr bodies: yours immodeſt, if immodeſtye it
+ſelfe be immodeſt, and immoderate, if dauncing all daye long, &amp; parte
+of the night bée immoderate: if to toyle &amp; ſweate thereat as if a
+man were at mowing: nay, they that ſweat ſo much hereat, neuer ſo much
+and ſeldome at all ſweate at worke.</p>
+            <p>The cauſe againe of the dauncing and melodye made in the Fathers
+houſe, was for ioye his Prodigall chylde was retur<g ref="char:EOLhyphen"/>ned, and the ſinner
+repented: and I pray you, which of you euer daunceth for ioye the waſtfull
+youth becommeth thryftye, or wicked forſaketh his naughtie wayes? dayly
+experience teacheth vs y<hi rend="sup">e</hi> contrary, that many yong men ſomewhat thriftye,
+after they geue them ſelues to daunceing fall to prodigallity? and ſomwhat
+vertu<g ref="char:EOLhyphen"/>ous, become altogeather vicious: or being before but vp to the ſhoe
+latchets, nowe are they ſunke vp to the chinne, and with<g ref="char:EOLhyphen"/>out <pb facs="tcp:183665:10"/>
+great héede, ouer head and eares. The end of theyrs tended to the glory
+and honour of almightye God, they ſang the prayſes &amp; myghty works of
+the almighty, in their ſober daunces: and at what tyme I beſeech you, at
+theſe méetinges ſing you the prayſes, and wonderous workes of God?
+Naye, at what tyme is not hée or ſhée laughed to ſcorne, that
+ſhoulde ſo be<g ref="char:EOLhyphen"/>haue them ſelues? ſo farre are you from theyr godly
+paſtimes. Wherefore for ſhame ceaſe to cyte this that makes ſo much
+againſt you, and as pure whyte ſet<g ref="char:EOLhyphen"/>teth forth your fowle and ſteyned
+blacke: and if you haue any other &amp; better, bring them forth. Better we
+haue not, neyther can we (for where ſo good maye be found, as in holy
+Scripture) but other we haue, whereby we wyll no more contende, that this
+laſciuious leaping of oures is ſuffe<g ref="char:EOLhyphen"/>rable at all tymes, but onely at
+<hi>VVhyt<g ref="char:EOLhyphen"/>ſontide,</hi> and that for thrée cauſes: that we may vſe
+reioyſing in remembraunce the holy Ghoſte deſcended to illuminate the
+hartes &amp; mindes of men: that the Church might be the better by this meanes
+main<g ref="char:EOLhyphen"/>tayned: and that the youth might eſchew ydle thoughtes, which by
+ſytting ſtyll and <pb facs="tcp:183665:11"/> doing nothing would ſoone
+poſſeſſe theyr heads, and thereout would quickly flame euyll
+deedes.</p>
+            <p>The Kings of <hi>Iuda</hi> that walked in the wayes of their
+father <hi>Dauid,</hi> pulled down all Monuments of Idolatry, ſauing that the
+high places ſtoode ſtyll: God forbyd my beloued Brethren, that you
+ſhoulde roote out other oportunities of daunce<g ref="char:EOLhyphen"/>ing, and diſallowe all other
+tymes and places, and yet ſuffer this high place to continew. If it be euil,
+or euilly vſed, then playe the parte of good King <hi>Joſias,</hi>
+               <note place="margin">
+                  <hi>1.</hi> King. 23</note> downe with al, yea, euen with this
+high place too, wherein and in which tyme this abhomi<g ref="char:EOLhyphen"/>nation is at the
+higheſt. If it be good, yet let vs not doo this good, that the euylles
+already rehearſed maye followe.<note place="margin">Roma. 3.8.</note> But
+theſe general examples and exhortations becauſe they poynt not (as they
+thinke) dyrectly at them: I wyll (God wylling) therefore enter into particular
+examina<g ref="char:EOLhyphen"/>tion, and anſwer them ſeuerally by them ſelues.</p>
+            <p>Fyrſt for reioyſing at the feaſt of <hi>Pen<g ref="char:EOLhyphen"/>tecoſt,</hi>
+that the comforter came downe in the viſible forme of fierie clouen tongues:
+what other ioye is better &amp; méeter, then <pb facs="tcp:183665:11"/> the comforter
+him ſelfe requireth? and what is that ioy be ſheweth by the mouth of his
+ſeruaunt <hi>Iaemes,</hi> ſaying,<note place="margin">Iam. 2.13.</note> is
+any a<g ref="char:EOLhyphen"/>mong you afflycted? let him praye<g ref="char:punc">▪</g> is any mery? let him ſinge. And
+what he ſhould ſinge, he declareth by the penne of his re<g ref="char:EOLhyphen"/>dy writer the
+Apoſtel <hi>Paul,</hi> ſaying:<note place="margin">Eph. 5.19.</note>
+               <hi>Speak vnto your ſelues in Himmes and Pſalmes and ſpirituall ſonges,
+ſinging and making melodie, to the Lord in your hartes.</hi> More ouer if we
+wyll reioyce for the comming of the holy ſpirit, what other reioyſing is
+ſo good and méete for a Chriſtian, as that Primatiue and firſt
+reioyſing at his viſi<g ref="char:EOLhyphen"/>ble diſcenſion? what decenter order, what
+goodlier and godlier exerciſe, then the A<g ref="char:EOLhyphen"/>poſtles and the religious
+multitude ga<g ref="char:EOLhyphen"/>thered together out of many Nations to ſerue the Lorde, kept at
+that feaſte of Whitſontide? We reioyce (we ſaye) and we gather our
+ſelues together out of ma<g ref="char:EOLhyphen"/>ny townes: but in what order reioyce we and to what
+ende flocke we ſo faſt togi<g ref="char:EOLhyphen"/>ther? in no ſuch order, to no ſuch ende
+(the Lord knoweth) as thoſe Apoſtles and A<g ref="char:EOLhyphen"/>poſtles Diſciples bid. The
+Apoſtls when the day of Penticoſt was come,<note place="margin">Actes.
+2.</note> were all with one accorde in one place, and were <pb facs="tcp:183665:12"/> filled
+with the holy Ghoſt: the people wondered at the wonderfull working of the
+ſpirit: the Apoſtle <hi>Peter</hi> painefully preched the word of God, the
+people heard him and conſtantly continued in the Diſ<g ref="char:EOLhyphen"/>ciples doctrine. The
+Apoſtles miniſtred the ſupper of the Lord (ſo much ſignifieth to vs
+the breaking of bread) the people accompanied them in that godly felow<g ref="char:EOLhyphen"/>ſhip.
+And to be briefe both Apoſtles and people perſeuered together in prayer, in
+gladnes, and in ſinglenes of heart. Marke this manner of gladnes and tell mee
+whe<g ref="char:EOLhyphen"/>ther ours in reſpect hereof be not méere madneſſe. We are
+together but full farre from one accord, as our dayly debates de<g ref="char:EOLhyphen"/>clare: we are
+filled, not with the holye Ghoſt, but with ſtrong ale: we come to<g ref="char:EOLhyphen"/>gether
+from diuerſe places, to ſerue the Lorde? no, to ſerue our voluptuous
+plea<g ref="char:EOLhyphen"/>ſures. We preach, but what preach we? y<hi rend="sup">e</hi> Goſpel of Chriſt, or y<hi rend="sup">e</hi>
+ſinnes &amp; abhomina<g ref="char:EOLunhyphen"/>tione of y<hi rend="sup">e</hi> people,<note place="margin">
+                  <hi>Mich.</hi>
+2.11</note> as <hi>Peter</hi> the<g ref="char:cmbAbbrStroke">̄</g> did? nothing leſſe: but we prophecy
+&amp; preach of pleſure, of ſtrong drinke, of wine, and then are we
+Prophets for this people, then are we ac<g ref="char:EOLhyphen"/>counted honeſt men. We communicate,
+and what doo we cumunicat, the ſupper of <pb facs="tcp:183665:12"/> the Lord? nay that
+were to ſadde a matter for ſo mery a time, and yt woulde let much good
+ſport. But we communicate many idle words, many vnſeamely ieſts, I wyll
+ſay no more for ſparing you. So that this vnchriſtian behauiour of ours
+ſheweth vs to celebrate the feaſt rather of <hi>Bacchus</hi> then of the
+holy Ghoſt. Seconda<g ref="char:EOLhyphen"/>rily for the maintaynance of the Church, there are other
+and better meanes then this, as you your ſelues right wel knowe. Oh, but you
+muſt conſider, (wyll they ſay) that they would not giue at all were it
+not to this ende. Nowe truely, better well ſpared then ſo euill ſpent:
+and as for the reperations of the Church,<note place="margin">
+                  <hi>2</hi> Kin.
+12.4</note> King <hi>Ioas</hi> ſheweth a ſeeme lyer order, &amp; though
+this lawe bee aboliſhed, yet haue our owne lawes prouided the lyke: vſe
+that a Gods name, and as for this vnlawful &amp; wicked way, let it ſerue the
+ſinagogue of Satan, for the Temple of the Lorde was at no time by y<hi rend="sup">e</hi> godly,
+by theſe vngodly wayes vpholden. Thirdelye for baniſhing idle thoughts out
+of your childrens &amp; ſeruants minds, who worketh this way, drowneth a
+fiſh in y<hi rend="sup">e</hi> water, &amp; putteth out alamp with oyle, as playnely appeareth
+both by that <pb facs="tcp:183665:13"/> which goeth, before and that which com<g ref="char:EOLhyphen"/>meth, after.
+Theſe are one ſorte of the Weapons, the other (as I ſayd) are
+ſlaun<g ref="char:EOLhyphen"/>ders, wherewith they intreat them which reprehend theſe abuſes,
+much after the manner the <hi>Lybertines</hi> intreated <hi>Ste<g ref="char:EOLhyphen"/>phen.</hi> When
+<hi>Stephen</hi> repleate with the holy Ghoſt diſputed againſt certaine
+<hi>Li<g ref="char:EOLhyphen"/>bertines Cirenians,</hi>
+               <note place="margin">
+                  <hi>Acts.</hi> 6.</note>
+               <hi>Alexandrians,</hi> and <hi>Cilicians,</hi> they not able to reſiſt the
+wiſ<g ref="char:EOLhyphen"/>dome and the ſpirit by whiche be ſpake, ſuborned falſe witnes,
+who teſtified they hard him ſays that Ieſus of Nazareth ſhoulde
+deſtroye that place and chaunge the ordinances which <hi>Moyſes</hi> gaue
+them? and thus moued they the Scribes, the elders<g ref="char:punc">▪</g> and the people
+againſt him. In like ſort theſe looſe Libertines reaſon with thoſe
+arguments and auctthorities before mentioned and when they bée not able
+to withſtand the word of God and ſpirit that ſpeaketh in his true
+miniſters, then ſeke they out and ſet vp falſe wytneſſe, who
+ſlaunderouſly report that we goo about to deſtroye all, to chaunge the
+auncient ordi<g ref="char:EOLhyphen"/>nances <hi>Moyſes</hi> gaue them, to alter al olde cuſtomes
+their forefathers leaft them, to put down al honeſt and laudable paſtime, 
+<pb facs="tcp:183665:13"/> to ende all friendly and neyghbourlye méetinges and mery
+makinges, to cut of good occaſions of loue among men and charity towards the
+poore: and thus ſtirre they the Scribes, the Elders and the peo<g ref="char:EOLunhyphen"/>ple
+againſte vs well, for them I ſaye no more, but remember the commandement of
+almighty God, thou ſhalt not beare falſe wytneſſe againſt thy
+neighbour. For you, ye Magiſtrats, Miniſters and people I exhort in the
+Lord, that ye be not ouer creduloſe in theſe matters, leaſte in quit<g ref="char:EOLhyphen"/>ting
+<hi>Barrabas</hi> you condemne Chriſt, and in letting goo theſe
+ſlaunderous witneſſe, ye puniſhe innocent <hi>Stephen.</hi> Suffer
+mée a whyle to pleade our owne cauſe in your preſence, and you
+ſhal plainely perceaue, howe theſe vniuſt accuſations they laye to our
+charge, may iuſtly be turned vpon them: For firſt they by their
+abhomina<g ref="char:EOLhyphen"/>tions, endeuour to deſtroy all, to breake the ordinaunces of
+<hi>Moiſes</hi> and olde cuſt<g ref="char:EOLhyphen"/>omes of the primatiue Church, and pureſt
+tymes. There are manye thinges com<g ref="char:EOLhyphen"/>mitted in this lewde and licentious
+exer<g ref="char:EOLhyphen"/>ciſe: flat againſt <hi>Moiſes</hi> mind, as his dede declared:
+againſt his ordinaunces, as his lawes (who liſt to conferre them with
+E<g ref="char:EOLhyphen"/>zechiels <pb facs="tcp:183665:14"/> for ſhewed ſight) make manifeſt. By their
+voluptuous ſport they put downe all honeſt lawefull and lawdable paſtime,
+namely ſhuting, and eſpecially at that ſeaſon, when for the number and
+length of the holy dayes they are at moſt leaſure, and for the
+freſhneſſe of the ayer and ſwéetneſſe of the fieldes, they
+may take moſt delight. The Prince comands it, the wiſe commends it, the
+warre com<g ref="char:EOLhyphen"/>pels it, and yet rude royat ſhall preuayle againſt them all. By
+their vnciuell and vnmannerly vſage, friendly and neigh<g ref="char:EOLhyphen"/>bourly company and
+communication is quite diſſolued and broken of. The caters cheife care,
+muſt it not be for the youth, howſoeuer the age? for the ſeruaunt
+how<g ref="char:EOLhyphen"/>ſoeuer the maſter? for the ſonne, howſoe<g ref="char:EOLhyphen"/>uer the father fareth. The
+beſt and high<g ref="char:EOLhyphen"/>eſt roomes, be they not kept for the young men and maidens,
+whereſoeuer the aun<g ref="char:EOLhyphen"/>cient ſubſtantial, and honeſt of y<hi rend="sup">e</hi> Parriſh
+ſit? nay if they be ſate, be their meetinges neuer ſo neighbourly, their
+communica<g ref="char:EOLhyphen"/>tion neuer ſo friendly, their matters ne<g ref="char:EOLhyphen"/>uer ſo weighty, muſt
+they not away, my Lorde commeth? But this is but once a yeare, and in ieſt
+manye wyll aun<g ref="char:EOLhyphen"/>ſwere, <pb facs="tcp:183665:14"/> no more is this oportunitie of this
+neighbourly méeting, but once a yeare, and therefore to be preferred
+this once: and this ieſt, turneth commonly to ſuch earneſt all the yeare
+after, that Gods commaundement is broken, Honour thy Father and Mother:<note place="margin">Ephe. 6.5.</note> the Apoſtles precept neglected, Seruants obey
+your maſters. By their brawles and ſometyme blowes betwéene company
+and company, the linkes of loue are often ſeuered a ſunder. By their
+ouermuch eating and drinking, charity to the poore waxeth colde. For doo they
+not ride from towne to towne, goe from village to village gulling in ſtrong
+drinke, and glutting in good meate, na<g ref="char:EOLhyphen"/>ture being before ſufficed, that might
+be better beſtowed vpon the neceſſity of the ſaynctes? I wyll ſay
+nothing here of the gluttony and drunkennes comitted ney<g ref="char:EOLhyphen"/>ther of the practiſe
+and ſport that I haue ſéene to make a man ouercome with nap<g ref="char:EOLhyphen"/>pie ale:
+but what if I (to ſpare you) ſaye nothing, neuertheleſſe the Apoſtle
+ſayth, <hi>That drounkardes ſhall not inherit the kingdome of
+heauen:</hi>
+               <note place="margin">1. <hi>Cor.</hi> 6.10 <hi>Aba.</hi> 2.15</note>
+And the Prophet cryeth, <hi>VVoe vnto him that geueth his neyghbour drinke to
+make him drunken.</hi> 
+               <pb facs="tcp:183665:15"/> Farre better were it (beloued brethren)
+that this Dauncing the cauſe of this great and gréeuous ſinne (for
+take away Daun<g ref="char:EOLhyphen"/>cing and down fales al) ſhould be vtterly aboliſhed, then
+that on ſoule ſhould periſh, or one of theſe woes ſhould light vpon
+vs. It is a ſore and terrible thing to fall into the hands of the Lord.
+Tuſhe wyl ſume ſay, he y<hi rend="sup">t</hi> ſo delighteth in drinking &amp; daun<g ref="char:EOLhyphen"/>cing if
+he haue it not here, wil haue in it a nother place &amp; wil do it though this
+were not: &amp; therfore it is better to let them haue the<g ref="char:cmbAbbrStroke">̄</g> at home, the<g ref="char:cmbAbbrStroke">̄</g> they
+ſhould raung about. As though other places bée not, or ought not to be
+in this good order? or as though y<hi rend="sup">u</hi> ſhouldeſt noriſh naughtineſſe,
+becauſe o<g ref="char:EOLhyphen"/>thers do ſo? or as though thy fatherly fear, and maſterly
+aucthority were not ſuffici<g ref="char:EOLhyphen"/>ent to ſuppreſſe this ſinne &amp;
+wickedneſſe? In excuſing this one fault, thou makeſt thrée.
+Firſt thou apeacheſt other places of like lewdnes: next that thou maiſt
+follow their examples: and laſt of all, y<hi rend="sup">t</hi> thy ſelfe wanteſt wiſdom
+&amp; diſcretion to rule thine vnruly familie. If other Towns were ſo
+vntoward as thou makeſt the<g ref="char:cmbAbbrStroke">̄</g>, doth it fol<g ref="char:EOLhyphen"/>low that thou ſhouldeſt
+aſſociate them? If other youth be ſo euyll bent, muſt thine 
+<pb facs="tcp:183665:15"/> néedes acco<g ref="char:cmbAbbrStroke">̄</g>pany them? God forbyd. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> that
+good father, &amp; godly maſter, whe<g ref="char:cmbAbbrStroke">̄</g> all other Nations round about him, were
+wholy geue<g ref="char:cmbAbbrStroke">̄</g> to all maner of abhominatio<g ref="char:cmbAbbrStroke">̄</g>, kept his houſehold in ſuch feare
+of God, &amp; ſo well inſtructed them in his word, that they wyllingly
+receaued Circumciſion at his handes:<note place="margin">
+                  <hi>Gen.</hi>
+17.23</note> If <hi>Abraham</hi> had ſayd as you ſaye, I were beſt to
+ſuffer my familie to run royat at home, for otherwiſe they wil in other
+places round about mée: would they, thinke you, without reſiſtance
+haue ſuffered the impreſſion of this couenaunt, being ſo grieuous a
+ſore, that the <hi>Seheehe<g ref="char:EOLhyphen"/>mites</hi> ſicke therewith,<note place="margin">
+                  <hi>Gen.</hi> 34.25</note> were a great num<g ref="char:EOLhyphen"/>ber ouercome by two
+perſons, <hi>Simeon</hi> and <hi>Leui?</hi> Neyther the multitud of many
+cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tries could moue <hi>Abraham</hi> to let loſe the reynes to his tender
+youth: nor the grie<g ref="char:EOLhyphen"/>uous ſore againe of Circumciſion, coulde cauſe his
+houſeholde to withſtand his do<g ref="char:EOLhyphen"/>ing: You haue not (God be prayſed) ſo
+ma<g ref="char:EOLhyphen"/>ny (though too many) againſt you:<note place="margin">
+                  <hi>Act.</hi>
+16.10</note> neyther would I wiſh you, nor is it my minde to lay this, or the
+lyke yoake on your necks, which neyther our fathers, nor wée were able,
+to bear as ſome complain, ſaying, we would haue the<g ref="char:cmbAbbrStroke">̄</g> liue like Saints, (as
+who <pb facs="tcp:183665:16"/> woulde ſaye that were euill (which is to ſtrayght for
+them) but we deſire to lay on your ſhoulders the yoke of Chriſt and his
+light burthen. And if it fall out that all towneſhips round about you, or, if
+al the towne which you inhabite maintain this miſdemeanure, yet would I
+counſell a Chriſtian to ſay w<hi rend="sup">t</hi> Captaine <hi>Ioſua, Choſe you whether
+you vvyl ſerue God,</hi>
+               <note place="margin">
+                  <hi>Ioſu.</hi> 24.15</note>
+               <hi>as your vain pleſure, I &amp; mine houſe vvil ſerue the Lord.</hi>
+This accompt if euery man would make as he ought, this diſorder would be
+quickly redreſſed. Thus haue you heard howe they are fallen into the pyttes
+they digged for others and now a word or two howe <hi>Stephen</hi> is not onely
+cleare of theſe ſlaunderous accuſations, but alſo ear<g ref="char:EOLhyphen"/>neſtly
+deſireth that whereof they accuſe him. They accuſe him to ſaye that
+Ieſus of Nazareth (it can be none other ſo long as hee preacheth none but
+Ieſus) woulde chaunge the ordinaunces <hi>Moyſes</hi> gaue them, the
+auncient cuſtomes their fore<g ref="char:EOLhyphen"/>fathers leaft them, where he teacheth that
+Chriſt came not to deſtroye the lawes of <hi>Moyſes</hi> but to fulfill
+them. They from this generall and falſe poſition, diſcend to as falſe
+particulars, bringing cer<g ref="char:EOLhyphen"/>tayne <pb facs="tcp:183665:16"/> late and newe orders of merye
+makings and friendly méetings of neigh<g ref="char:EOLhyphen"/>bours, and of reléeuing
+the néedye, thin<g ref="char:EOLhyphen"/>king them olde orders if they can cal them ſo, or if
+they be out of their remembrance, or if they haue bene vſed an age or two
+before them: whereas hée endeuoureth to aboliſh the ſtraunge
+innouations &amp; newe fangles, and to call them backe to the old cuſtumes
+and auncient orders in déede.</p>
+            <p>In the primatiue Church the faithfull made feaſts amonge them
+ſelues,<note place="margin">Iude ver. <hi>12</hi>
+               </note> partly to proteſt
+their brotherly loue, and partly to reléeue the poore people. The
+auncient Father <hi>Chriſoſtome</hi> ſaith.<note place="margin">Chriſo.
+vpon Gen. ho. 10.</note> Let one of you take the holye booke, and let hym call
+hys neyghbours aboute him, and by the heauenlye wordes let him water and
+refreſhe boeth their mindes, and alſo his owne, that by this meanes we maye
+bee able to eſcape the Deceiptes of the Deuyll. You that ſticke ſo faſt
+to olde cuſtoms and haue alwayes in your mou<g ref="char:EOLhyphen"/>thes let vs kéepe olde
+cuſtomes, leaue thoſe your newe and naught, and kepe theſe oulde and good
+couſtomes: or at the leaſte chaunge youre common ſong, and ſing another
+whyle: Ours be of <pb facs="tcp:183665:17"/> late ſince iniquity hath got the vpperha<g ref="char:cmbAbbrStroke">̄</g>d,
+&amp; yours of olde in the primitiue Church, &amp; time of the auncient
+Fathers. But for aſ<g ref="char:EOLhyphen"/>much as neyther the good counſell of this auncient
+Father, nor the ſhyning mirror of this primitiue Church, ſo much moue many
+as the co<g ref="char:cmbAbbrStroke">̄</g>mandement of the Prince and her Magiſtrates, I wyll therefore
+thereof ſpeake ſomewhat, that I may win ſome. The Quéenes
+Maieſtie in the twentie article of her <hi>Iniunctions,</hi> Com<g ref="char:EOLhyphen"/>maundeth
+that her faythfull and louing ſubiects celebrate, &amp; keepe their holy
+daies according to Gods holy wyll &amp; pleaſure: that is, in hearing the
+word of God read &amp; taught: in priuate &amp; publique prayers: in
+acknowledging their offences to God, and amendment of the ſame: in
+reconcilyng themſelues charitably to their neighbors, where diſpleaſure
+hath bene: in often re<g ref="char:EOLhyphen"/>ceauing the Communion, in viſiting the poore and
+ſicke, in vſing al ſoberneſſe and godly conuerſation. Hitherto the
+wordes of the <hi>Iniunction:</hi> Wherein albeit daun<g ref="char:EOLhyphen"/>cing be not named, &amp;
+namely forbydden, yet is it as ſtraightly denied, as if it were
+expreſſed. For in co<g ref="char:cmbAbbrStroke">̄</g>maunding godlines to be vſed, wickednes is denied:
+&amp; whoſoeuer accompliſheth her Maieſties moſt godlye <pb facs="tcp:183665:17"/>
+minde in theſe pointes, ſhal haue (I war<g ref="char:EOLhyphen"/>rant him) litle leaſure and
+leſſe pleaſure to daunce and dallye: and whereſoeuer theſe godlye
+exerciſes be put in practiſe, dauncinge <hi>Dagon</hi> will downe before
+the arke, the ſeuereſt <hi>Saul</hi> that ſeeketh to per<g ref="char:EOLunhyphen"/>ſecute ſuche
+as ſpeake againſt theſe abu<g ref="char:EOLhyphen"/>ſes, will him ſelfe fall to prophecyeing?
+The ſturdieſt ſoldier that co<g ref="char:cmbAbbrStroke">̄</g>meth to take <hi>Chriſt</hi> will
+ſtagger, and fall flatte to the ground, as many happy places and bleſ<g ref="char:EOLhyphen"/>ſed
+perſons in theſe daies well wittneſſe and declare: where &amp; among
+whom the arke (the bible co<g ref="char:cmbAbbrStroke">̄</g>teining the teſtimonies not of <hi>Arons</hi>
+rodde &amp; the potte of <hi>Manna</hi> alone, but manye more myracles,
+togy<g ref="char:EOLhyphen"/>ther with the two tables) is ſo ſet vp, that the idoll of dauncing
+breakes his necke. The ſpirite of God ſo mightely worketh, that diuerſe,
+of perſecutours, are become defendors of Gods people: the wordes of
+<hi>Chriſt</hi> ſo effectually pronounced, that ſuch as will not yeilde,
+they ſtrike downe to the earth. This is the Lords doeyng and it is marueilous
+in our eyes.</p>
+            <p>Notwithſtandinge ſome much like <hi>Thomas Didimus,</hi> will
+not beléeue that this article of the Princes toucheth this <pb facs="tcp:183665:18"/>
+diſorder, becauſe they here not dauncing expreſſly named. Theſe men I
+referre to Maiſter <hi>Godwinnes. 47.</hi> article, vn<g ref="char:EOLhyphen"/>der the title of
+Church wardens &amp; ſworne men: who are ſworne to ſée the ſame
+ab<g ref="char:EOLhyphen"/>bolliſhed, God geue them his grace to diſcharge theyr othe: Whiche that
+they might the rather doe, this beſides diuerſe other, was one cauſe I
+tooke this taſke in hande. Others were to moue the Magiſ<g ref="char:EOLhyphen"/>trates by the
+example of <hi>Moſes,</hi>
+               <note place="margin">Exo. 32.19</note> to ſtoppe
+this outragious paſtimes, to ſtirre my bretheren, whome the Lord hath
+appoin<g ref="char:EOLhyphen"/>ted watchmen ouer his flockes, to admo<g ref="char:EOLhyphen"/>niſhe them of theyr wicked
+wayes,<note place="margin">
+                  <hi>Ezech.</hi> 3.18. <hi>&amp;</hi> 33.6</note>
+leaſt theyr bloude be not one day required at theyr hands: and for parte of
+diſcharge of this my charge amonge the reſt, to de<g ref="char:EOLhyphen"/>clare vnto the people
+theſe abhominati<g ref="char:EOLhyphen"/>ons: that the mouthes of the malitious maye be muſled,
+readinge and iudginge (by this meanes) at theyr leaſure, the doctrine I haue
+taughte them, to be no olde wiues tale, nor corrupt cuſtome, nor vayne
+inuention of man, as theires is, but the worde of the Lorde, rebu<g ref="char:EOLhyphen"/>kinge theyr
+ſinnes, whereof I and ſuche as I am: vppon payne (you hearde euen 
+<pb facs="tcp:183665:18"/> nowe of euerlaſting death, are ſtraight<g ref="char:EOLhyphen"/>lye charged to
+admoniſhe you, and that the hartes of the honeſt, whoe more for wante the
+watchman warneth them not theſe offences,<note place="margin">2. <hi>Cro.</hi>
+29.36. <hi>&amp;</hi> 30.14.15. <hi>&amp;</hi> 31.1 <hi>Ezra.</hi> 8.15</note>
+then for obſtinate and wilfull frowardneſſe (for truelye to re<g ref="char:EOLhyphen"/>porte as I
+fynd, the people are often rea<g ref="char:EOLhyphen"/>dier to doe theyr duetie to the Lord, then the
+Prieſtes and Leuites, and willinger to obey his wil then the ſonnes of
+<hi>Leuie</hi>) that theſe mens hartes (I ſaye) ſeinge now how they haue
+heretofore of igno<g ref="char:EOLhyphen"/>raunce in the word of God, and not thin<g ref="char:EOLhyphen"/>king it to be ſo
+euill as they here in mine Authors tracte ſée it is, done amyſſe
+may be ſo inwardly touched y<hi rend="sup">t</hi> they may ſaye: Men and bretheren, what
+ſhall we doe?<note place="margin">
+                  <hi>Act.</hi> 2.27.</note> And becauſe no
+Prophet is eſtéemed in his owne countrie, I haue thought it good to
+take a worthye Prophet of another countrye, that thou mighteſt not diſdaine
+to bee taughte, at his handes, whoe once taught the learned Diuines in Oxforde:
+and that thou mighteſte not refuſe to be tolde thy faulte, whether it be of
+ma<g ref="char:EOLhyphen"/>lyce or ignoraunce (for if of ignoraunce,<note place="margin">
+                  <hi>Leuit.</hi>
+4.</note> yet a faulte, as ſhewethe the obla<g ref="char:EOLhyphen"/>tions offered therefore) by
+ſuche a <pb facs="tcp:183665:19"/> one as rebuked euen Kings for <hi>Chriſtes</hi>
+ſake, and Princes by the waighty words of his wrytinges. Finallye that thou
+mighteſt in litle tyme reade in thy mo<g ref="char:EOLhyphen"/>ther tongue: and for a litle monye
+buye not ſo much a litle booke according to the quantitye, as a whole
+librarye of bookes according to the quallitye. For by the wonderfull paines of
+this ſedulous Bée, haſt thou here the honnie of moſte artes
+concerning this matter. Art thou a di<g ref="char:EOLhyphen"/>uine, and of the diuines a fauourer of
+the truth? Here haſt thou examples of the ſcripture, generall councelles
+and aun<g ref="char:EOLhyphen"/>cient Fathers: or a fauourer of the Pope? here haſt thou popes &amp;
+popiſh ſcholemen. Art thou a lawier, and of the lawiers a ciuilian? here is
+ciuill lawe: or a Canno<g ref="char:EOLhyphen"/>niſt? here are Cannons, diſtinctions, and
+decrées: Studieſt thou Philoſophy? here Philoſophers ſpeake
+theyr mindes: De<g ref="char:EOLhyphen"/>lighteſt thou in Oratorye? here Orators vtter their eloquent
+ſentences: or in Hiſ<g ref="char:EOLhyphen"/>toriography? here Hiſtories ar declared: dwelleſt
+thou in the country, and deſireſt to haue theyr obiections anſwered? here
+are they anſwered. Briefly he is of a very ſtraunge decrée and
+condition of lyfe <pb facs="tcp:183665:19"/> that may not in this ſmale tract of
+Maiſ<g ref="char:EOLhyphen"/>ter <hi>Martyres,</hi> in his owne profeſſyon be brought familyarly
+from this vice to the better knowledge of Chriſt, as were the Aſtronomers
+by a ſtar, and <hi>Peter</hi> the fiſherman by a myraculous draughte of
+fiſhe: which God to the glory of his name graunt. <hi>So be it.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:183665:20"/>
+            <pb facs="tcp:183665:20"/>
+            <head>
+               <g ref="char:leaf">❧</g> A briefe Tracte con<g ref="char:EOLhyphen"/>
+               <hi>cerning Dauncing collected</hi>
+out of Maiſter Doctour Peter <hi>Martyr,</hi> by <hi>Maiſter</hi>
+Maſſonius.</head>
+            <p>DAuncing, as <hi>Plato</hi> ſaieth, is ſayde to be of
+reioycing: for that it is a certain teſtimonie of ioy and gladneſſe. And
+<hi>Ser<g ref="char:EOLhyphen"/>uius</hi> interpreting that verſe of <hi>Virgill. <hi>Omnis qua<g ref="char:cmbAbbrStroke">̄</g>
+chorus et ſocij co<g ref="char:cmbAbbrStroke">̄</g>mitantur oua<g ref="char:cmbAbbrStroke">̄</g>tes.</hi>
+               </hi>
+            </p>
+            <p>Whom all the companye of daun<g ref="char:EOLhyphen"/>cers and fellowes followed
+reioycinge: ſaieth the ſame to be a ſinginge and leap<g ref="char:EOLhyphen"/>inge of them that
+are of one age. But from whence this ſhoulde take it begin<g ref="char:EOLhyphen"/>ninge, there are
+diuerſe opinions.</p>
+            <p>Some ſuppoſe, that men beholdinge the motions of the fixed and
+wanderinge Starres, inuented this, therby to repre<g ref="char:EOLhyphen"/>ſent that variety of the
+motion. Others thinke that it rather ſprange fyrſte of Religion, becauſe
+amonge the auncient <hi>Ethnickes,</hi> no ſacred thinges were wel nie donne
+without dauncinge.</p>
+            <p>For they leade theyr daunces from the leafte to the right ſide
+of the Aulter, to ſhewe the turninge of Heauen from <pb facs="tcp:183665:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:183665:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:183665:22"/> the Eaſte to the
+Weaſt, then returned they from the right ſide to the leafte, to ſignify
+the courſe of the moueable and vn<g ref="char:EOLunhyphen"/>moueable ſtarres: which thinge
+perad<g ref="char:EOLhyphen"/>uenture <hi>Virgill</hi> meant, when be ſayde: 
+<q>Inſtaurant<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> choros mixti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> altaria circu<g ref="char:cmbAbbrStroke">̄</g>.</q> They
+begine to daunce afreſh one with another round about the aulters.<note place="margin">salij vvere prieſtes of Mars in Rome, vvh<g ref="char:EOLhyphen"/>ich daunced about the
+ci<g ref="char:EOLunhyphen"/>tie vvith tar<g ref="char:EOLunhyphen"/>gatts called Ancilia.</note> Alſo <hi>Salij</hi> the
+prieſtes of <hi>Mars</hi> among the Ro<g ref="char:EOLhyphen"/>maines were had in great eſtimation.
+And there be that referre the originall hereof to <hi>Hiero Siculus</hi> the
+tyraunt: who, as they reporte, to eſtabliſh his tyranny, forbad the people
+mutuall communicati<g ref="char:EOLhyphen"/>on. By meanes wherof it came to paſſe, that the men of
+<hi>Sicilia</hi> beganne to exprſſe theyr mindes and thoughtes by beckes
+&amp; geſtures of the bodie: which afterwards grew to an vſe and cuſtom.
+But whether this be ſo or noe, daunces in the olde time were not
+enſtraunged from religion: al<g ref="char:EOLhyphen"/>beit afterwardes they were applyed to publique
+and common reioyſing: Beſides theſe, there was another kinde exerciſed
+by younge men in Martiall affayres.</p>
+            <p>For aſmuch as they were commaunded to leappe and make muche
+geſture and ſignes of mirth in theyr Harnes, to thend <pb facs="tcp:183665:22"/> they
+might be readier and apter for bat<g ref="char:EOLhyphen"/>tell, when the cauſe of y<hi rend="sup">e</hi> common welath
+ſo required.<note place="margin">Pyrricha a certain form of dauncing vſed of
+ſol<g ref="char:EOLhyphen"/>diors, and iuented by Pyrehus.</note> This manner of daunſinge was
+called <hi>Pyrrhicha,</hi> and becauſe it was vſed in armour, armed, hereof
+mentio<g ref="char:cmbAbbrStroke">̄</g> is made in the ciuill lawes, (that is to ſaye) in the digeſt of
+puniſhmentes, F. <hi>de poenis:</hi> L. <hi>ad damnum.</hi>
+            </p>
+            <p>And ſometyme younge men, whe<g ref="char:cmbAbbrStroke">̄</g> they treſpaſſed, were not
+foorthwith adiudged to dye, but either to hunte in the theater, or to daunce in
+theyr armour: and they were called <hi>Pyrrhicharij.</hi> Another kinde alſo
+there was, which was appointed for pleaſure, onely and laſciuiouſnes,
+called of the <hi>Gretians</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a rude ruſti<g ref="char:EOLhyphen"/>call and
+ry<g ref="char:EOLhyphen"/>diculouſe kinde of dauncing in comaedies.</note>
+            </p>
+            <p>Moreouer of them that expreſſed by the geſtures of theyr
+bodies the meaning of theyr mindes: wryteth <hi>Lucianus</hi> in his Treaty of
+dauncing, &amp; likwiſe <hi>Athenaeus:</hi> Which came to that paſſe at
+length, that <hi>Demetrius Cynicus</hi> in deriſion called thys counterfeit
+dauncing a vaine thing and nothing worth. Whereupon a wor<g ref="char:EOLhyphen"/>thy dauncer, whoe
+then was had in ho<g ref="char:EOLhyphen"/>nour at <hi>Rome,</hi> deſyred him that he would but one
+onelye tyme beholde him, and then that hee woulde iudge and reporte 
+<pb facs="tcp:183665:23"/> whatſoeuer pleaſed him. He came to the Theater, the
+counterfeite beganne by his geſtures to expreſſe the common fable of
+<hi>Mars</hi> and <hi>Venus,</hi> taken in adulterye. Wherein in ſuche
+ſorte, he ſhewed the Sonne diſcloſinge, <hi>Vulcan</hi> knittinge
+nettes, <hi>Venus</hi> all aſhamed, and <hi>Mars</hi> humbly intreating, in
+ſo much as <hi>Deme<g ref="char:EOLhyphen"/>trius</hi> aſtonied cryed out. I not onely
+ſée, O man, the thinges thou doeſt, but alſo here them. For by thy
+handes thou ſée<g ref="char:EOLhyphen"/>meſt to ſpeake vnto me. At the ſame tyme, as it
+happened, there repayred to <hi>Rome,</hi> the kinge of <hi>Pontus:</hi> Who
+when he had ſéene this dauncer play his geſturs in the Theater,
+afterwardes willed to demaund of <hi>Nero,</hi> the thinge he chieflye wiſhed
+to be beſtowed vpo<g ref="char:cmbAbbrStroke">̄</g> him, he aſked y<hi rend="sup">e</hi> geſturer: wherat <hi>Nero</hi>
+maruelyng, ſée<g ref="char:EOLhyphen"/>ing he might haue requeſted other things of much more
+valew, inquired the cauſe of his requeſt. He made anſwere, becauſe I
+haue many nations vnder my ſubiec<g ref="char:EOLhyphen"/>tion, whom without an interpreter, I
+ca<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>not vnderſtande, and eftſoomes it falleth out, that interproters
+declare not faith<g ref="char:EOLhyphen"/>fully enough my wordes vnto them, nor agayne theyrs vnto me:
+But this fellow <pb facs="tcp:183665:23"/> by hys geſtures wyll declare all thynges
+moſte faythfullye. <hi>Plato</hi> in his thyrde booke of lawes, maketh two
+manners of daunces, the one warlike, whiche aboue we named <hi>Pyrrhicha,</hi>
+the other peacea<g ref="char:EOLhyphen"/>ble, wkich he termeth placable.</p>
+            <p>The vncleane and filthy kinde I omit to ſpeake of, becauſe it
+is manefeſtſlye condemned by the lawes. The exerciſe in harnes and that
+which was ſhewed by ſignes, maye ſerue to ſome vſe in the common
+wealth: but to our purpoſe they perteine not. Wherefore of the pecea<g ref="char:EOLhyphen"/>ble and
+placable ſorte, ſhall ſomewhat be ſayde in thys place, howe farre
+foorth it maye be lawefull, when for reioycinge ſake it is vſed.</p>
+            <p>This kinde of exerciſe ſéemeth to me of it owne nature
+neither vitiouſe nor to be prohibited, for aſmuche as agillitye and
+nimbleneſſe of the boddye, is the gifte of God: and if there be added
+ſome arte, that the boddye be mooued with decencye, iuſt pace, &amp;
+comlines, I ſee not why it ought to be reprehended, ſo it be done in due
+ſea<g ref="char:EOLunhyphen"/>ſon, moderatly and without offence. For as it is lawfull to ſinge,
+&amp; vſe ſinginge to giue thanks to god, &amp; celebrat his praiſes: 
+<pb facs="tcp:183665:24"/> So likewiſe moderate dauncing to teſ<g ref="char:EOLhyphen"/>tify our ioy and
+gladneſſe.<note place="margin">2. Sa<g ref="char:cmbAbbrStroke">̄</g>. 6.14</note> 
+               <hi>Dauid</hi>
+doubt<g ref="char:EOLhyphen"/>leſſe daunced openly before the Arke.</p>
+            <p>
+               <note place="margin">1. Sa<g ref="char:cmbAbbrStroke">̄</g>. 18.6</note>The maidens renowmed his
+victorye ouer <hi>Goliah</hi> with dauncing and ſinging. <hi>Miriam
+Moſes</hi> ſiſter,<note place="margin">
+                  <hi>Exo.</hi> 15.20</note> when
+<hi>Pharo</hi> was layde a longe and ſlaine, daunced with o<g ref="char:EOLhyphen"/>ther women, and
+ſange a ſonge of try<g ref="char:EOLhyphen"/>umph and victorie. Wherefore ſith holy men and
+chaſt wome<g ref="char:cmbAbbrStroke">̄</g> haue vſed daunces, we can not ſaye they are faultye of theyr
+owne nature: but as they are nowe a dayes donne, that men ſhould daunce
+to<g ref="char:EOLhyphen"/>geyther with women, they be vntollera<g ref="char:EOLunhyphen"/>ble: For that they are the nutrimentes
+and prouocations of laſciuiouſneſſe and voluptuous pleaſures.
+<hi>Mirriam Moſes</hi> ſiſter traced not with younge me<g ref="char:cmbAbbrStroke">̄</g>, but ap<g ref="char:EOLhyphen"/>parte
+with women: neither <hi>Dauid</hi> with women, nor the maidens who honoured his
+conqueſt, with yonge men but by the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ſelues. Now they y<hi rend="sup">t</hi> with all theyr
+mind and might loue God, it is not enough for them to obſerue his
+commaundements, vnleſſe they cutte of alſo all occaſiones, whereby
+theyr obſeruations maye be impayred. But our daunces are moſt eui<g ref="char:EOLhyphen"/>dent
+occaſions of tranſgreſſing the diuine <pb facs="tcp:183665:24"/> lawe: ſnares they
+are and ſtumblinge blockes, not to the doers alone but to the beholders
+alſo: For they ſtirre and in<g ref="char:EOLhyphen"/>flame the hart of men, wicked enoughe
+otherwiſe from it verye beginning: and what with much a doe and induſtry,
+is to be repreſſed, that the flickeringe intice<g ref="char:EOLhyphen"/>mentes of theſe light
+leapinges rayſe &amp; ſtyrre vp. Verely if a man would take counſell
+either of him ſelfe, or of expery<g ref="char:EOLhyphen"/>ence, or of reaſon, he ſhall finde the
+luſter of the minde not a litle to be kindled, and ſet on fyre by theſe
+ſightes: and he ſhall perceiue me<g ref="char:cmbAbbrStroke">̄</g> with waue of theyr goodnes, and women
+with eclyppes of theyr chaſ<g ref="char:EOLhyphen"/>titie returne home. Furthermore, pe<g ref="char:EOLhyphen"/>rilles are
+rather to be taken héede of then nouriſhed: For as <hi>Salamon</hi>
+ſaith, <hi>VVho loueth perill shall fall thereinto.</hi>
+            </p>
+            <p>But ſome man will obiecte, that daun<g ref="char:EOLhyphen"/>cinges ſo muche indammage
+manners, and kindle luſte, commethe to paſſe by raſhneſſe and by
+accedentarye meanes: and iudgement ought not of euery thing to be geuen,
+accordinge to thoſe thinges whiche come by chaunce, but according to theſe
+thinges that are here in them<g ref="char:EOLhyphen"/>ſelues. Some are founde ſo chaſte 
+<pb facs="tcp:183665:25"/> and pure, that they can with a chaſte and pure minde
+ſée theſe ſightes. I graunt it may ſometyme ſo fall out, but
+take thys with you, all accedentes not to be of the ſame condition.</p>
+            <p>Some there are which verie ſeldome happen, ſome eyther way,
+which of their nature maye be aſwell preſent at anye thinge, as abſent:
+and ſoome whiche for the moſt parte are wont to fall out: theſe laſt in
+each thinge ought to be moſt dili<g ref="char:EOLhyphen"/>gently conſidered and regarded: neither
+muſt we reſpecte what maye, but what was wont to be done.
+<hi>Ariſtippus</hi> daun<g ref="char:EOLhyphen"/>ced in purple, and therof accuſed, excuſed
+himſelfe that therby he waxed neuer the worſe, and that he could euen in
+that ni<g ref="char:EOLhyphen"/>cenes and delicacye retaine a Philoſo<g ref="char:EOLhyphen"/>phers minde. But ſuch
+ſayinges are not to be herkened vnto: becauſe as <hi>Demoſ<g ref="char:EOLhyphen"/>thenes</hi>
+ſaieth, and is cited of the Lawe<g ref="char:EOLhyphen"/>iers, we muſt not concider what any man
+doth now and then, but what is accoſto<g ref="char:EOLhyphen"/>med to be done for the moſt parte.
+Ima<g ref="char:EOLhyphen"/>gine a man to be ſo chaſte, that he maye not be moued with theſe
+allurementes, yet in the meane whyle howe are the people prouided for, and the
+multitude <pb facs="tcp:183665:25"/> ſéene vnto? For the integrety &amp;
+vpright<g ref="char:EOLhyphen"/>neſſe of ſome one or other, ſhall we ſuffer all the reſt to
+remaine in danger? But ſo, wil ſome man mutter, take a waye Ser<g ref="char:EOLhyphen"/>mons and
+Sacraments, for many heare ſomtime the word of God to their own
+co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>demnation, and to their owne condemnae<g ref="char:EOLunhyphen"/>tion many eat &amp; drink the holy
+Miſteries.</p>
+            <p>Here is it neceſſary to be knowne that ſome thinges make for
+mens ſaluation, and are co<g ref="char:cmbAbbrStroke">̄</g>maunded by the word of God, which by no meanes
+ought to be taken a<g ref="char:EOLhyphen"/>way. Some thinges againe are indiffe<g ref="char:EOLhyphen"/>rent, which if we
+ſée them tende to hurte, are not tollerable. Co<g ref="char:cmbAbbrStroke">̄</g>cerning Sermons &amp;
+Sacraments, we haue the lawe of God that we ſhoulde heare and receiue them:
+touching dauncing there is nothing com<g ref="char:EOLhyphen"/>maunded: Wherefore theſe are not to be
+compared togither. But by this mea<g ref="char:EOLhyphen"/>nes (ſaye diuerſe) are manye honeſt
+ma<g ref="char:EOLhyphen"/>riages made. It maye be ſo otherwhile, notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding for my parte, it
+could ne<g ref="char:EOLhyphen"/>uer ſinke into mine heade, that I would wiſh Matrimonies to be by
+theſe means contracted, wherin the nimbeneſſe onely &amp; bewtie of the
+body are reſpected. Ther are other meanes far honeſter, let vs vſe 
+<pb facs="tcp:183665:26"/> them, and as for theſe ſcarce honeſt and chaſt, let vs
+leaue them. Weigh we with our ſelues, that although ſomtime honeſt
+mariages be gotten by dauncinge: yet a great deale oftener adultrye and
+whore<g ref="char:EOLhyphen"/>dome are wonnte to enſue of theſe ſights.</p>
+            <p>We ſhould followe the footings of our godly Fatherrs, who now
+and then vſed dauncinge, yet chaſte and moderate, the men by them ſelues,
+and the women by theyr ſelues: By theſe daunces teſtified they the myrthe
+of their mindes, ſangs they prayſes to God, gaue they thankes vnto him for
+ſome ſingular benefite re<g ref="char:EOLhyphen"/>ceaued at his handes. And as for the con<g ref="char:EOLhyphen"/>fuſed
+daunces of men and women togy<g ref="char:EOLhyphen"/>ther, we reade them not in the holy ſcrip<g ref="char:EOLunhyphen"/>ture.
+But our men wil ſaye, who would daunce after this ſorte? Theſe thinges
+while they vtter, they bewray the<g ref="char:cmbAbbrStroke">̄</g>ſelues what they ſéeke for in this
+paſtime.</p>
+            <p>Hyther flocke the effects of dauncinge recorded in
+<hi>Mathew,</hi> how the daughter of <hi>Herodias</hi> ſkipped in the kinges
+feaſt, the king toke pleaſur in her, whome without ſhame he could not
+ope<g ref="char:cmbAbbrStroke">̄</g>ly gaze vppon: for it was a moſt euident token of y<hi rend="sup">e</hi> forbide<g ref="char:cmbAbbrStroke">̄</g> marriage
+&amp; whoredome: for <hi>Herod</hi> had <pb facs="tcp:183665:26"/> taken vnto him the wyfe
+of his brother, and mother of this damſell: of that daunce it followed that
+<hi>Iohn</hi> was bee headded. Many are miſgréeued with vs, that
+wée cye out vppon daunces, as vppon things: euill of their nature and
+prohibited. We again make aunſwere, that things ought not alwayes to be
+meaſured, by their na<g ref="char:EOLhyphen"/>ture, but by the diſpoſition and abuſe of our
+fleſhe: wine, we cannot, denye, of it ſelfe is good: yet is it not
+adminiſtred to the ſick of the Feuer: not in that it is euil, but in that
+it agreeth not with the bodye ſo affected. In <hi>Exodus</hi> when the people
+made to themſelues a golden calfe, which they might worſhippe, they ſate
+downe, they eate, they drancke, and they roſe vp to play: In which place to
+play ſéemeth to be nothing elſe then to daunce. But that I may not
+ſéeme ſingular and alone man in theſe my ſayinges and cenſure,
+I wyll annexe certaine teſtimonies of the fore<g ref="char:EOLhyphen"/>fathers. <hi>Auguſtine</hi>
+in the ſixt Chapter of his booke againſt <hi>Petilian,</hi> ſayth:
+Byſhops were euermore wont to puniſh vaine and laſcinious daunces: but
+now a daies, there be many Biſhops not only preſent at the daunces, but
+dauncers themſelues with <pb facs="tcp:183665:27"/> women: ſo farre are they from
+correcting this vice. The ſame <hi>Auguſtine</hi> whyle he expoundeth
+thoſe words of the <hi>.32.</hi> Pſalme Vppon an inſtrument of tenne
+ſtringes will I ſinge vnto thee: thoſe ten ſtringes he maketh the tenne
+commaundements, and when he had ſayde ſome what vppon euery one of them, at
+the laſt he commeth to the Saboth: of which it is written, re<g ref="char:EOLhyphen"/>member that
+thou kéepe holy the Saboth day: I ſay not (ſayth he) that thou
+ſhouldeſt be ſo drowned in delicacie, as the <hi>Iewes</hi> are
+accuſtomed: for better it is all day to dig, then to daunce on the Saboth,
+<hi>Chri<g ref="char:EOLhyphen"/>ſoſtome</hi> in <hi>.56.</hi> Homely vppon <hi>Genneſes,</hi>
+intreating of <hi>Iacobs</hi> Mariage, Mariage (quoth he) haue ye hearde, but
+no daun<g ref="char:EOLhyphen"/>cing, which there he calleth <hi>Diabolicall:</hi> and many more
+matters hath hée in the ſame place, which make for vs. And a<g ref="char:EOLhyphen"/>monge all
+the reſt be wryteth howe by dauncing, the Bride and Bridegrume are corrupted,
+and the whole family defiled. Againe in his <hi>.48. Hom.</hi> Thou
+ſéeſt, ſayth he, Mariages but daunces thou ſéeſt not.
+For at that time they were nothing ſo wanton as they are in theſe dayes.
+Di<g ref="char:EOLhyphen"/>uerſe other thinges hath he in the <hi>.14.</hi> of <hi>Matthew,</hi> wher
+reciting <hi>Herodius</hi> daun<g ref="char:EOLhyphen"/>cing <pb facs="tcp:183665:27"/> to the people, among the
+reſt, he ſaith now a daies Chriſtians deliuer not halfe their kingdome
+nor another mans head, but their own ſoule into diſtruction. And he addeth,
+where this laſciuious dauncing is ſet vp, there daunceth the Deuill
+toge<g ref="char:EOLhyphen"/>ther with them. In the counſell of <hi>Laodi<g ref="char:EOLhyphen"/>cia</hi> we finde written,
+that it is not conue<g ref="char:EOLhyphen"/>nient for Chriſtian men to daunce at Ma<g ref="char:EOLhyphen"/>riages. Let the<g ref="char:cmbAbbrStroke">̄</g>
+dine and ſuppe diſcréetly and moderatelye, geuing God thankes for
+the benefit of Matrimony. In the ſelfe ſame councell it is alſo written.
+Let not Clarkes approche the Theatre, or matia<g ref="char:EOLhyphen"/>ges to gape after Pageaunts:
+they maye be at Mariages, but after the ſingers and Harpers be come in, who
+ſerue for daun<g ref="char:EOLhyphen"/>ces, aryſe they and depart, leaſt by theyr preſence they
+maye ſeeme to allowe and approue that wantonneſſe. In the Coun<g ref="char:EOLhyphen"/>cell of
+<hi>Illerden,</hi> holden vnder <hi>Simmachus</hi> and <hi>Hormiſda</hi>
+Popes, and king <hi>Theodo<g ref="char:EOLhyphen"/>ricke,</hi> the ſame is decréed: that
+Chriſtians ſhould not daunce at weddinges. In the Councell of
+<hi>Arriſidoren,</hi> which was vn<g ref="char:EOLhyphen"/>der Pope <hi>Deus dedit,</hi> this
+ſéemeth to bée reſtrayned to Clarkes: for there is, there a
+Prouiſo, that no Clarkes myght in the <pb facs="tcp:183665:28"/> feaſte eyther ſinge
+or daunce, as if to others it were after a forte lawefull.</p>
+            <p>Of the ſame opinion are the ſcholemen of the Diuins in the
+<hi>3.</hi> Senten. Diſtinct. <hi>37.</hi> Who referre theſe reſtraintes
+vnto the hollye dayes.</p>
+            <p>
+               <hi>Rycharde</hi> of the middle Village, ac<g ref="char:EOLhyphen"/>counteth it a moſte
+grieuous ſinne, to daunce on the hollye dayes as though on other dayes it
+might be permitted; But farre waightere is the iudgement of the Fathers and
+ſounde Councelles, then theſe mennes; Whoe hurtfullye ſet at large
+thoſe things, which are to be kéept in, ſeing they haue with them
+the hazard of ſoules, and not the hazard onely, but the ſlydings and falles
+moſt grieuouſly to be lamented<g ref="char:punc">▪</g> And yet theſe men ſéeme to
+borrowe this theyr Sentence, wherby they denye dauncinge on the hollie daies of
+the ciuill lawes, in the Code forſoothe, in the title of holly dayes, and
+lawe holly dayes .C. tit. <hi>deferijs</hi> L. <hi>dies feſtos.</hi> We let
+at liberty vacation on the holly daies, but we will that men be reſtreined
+from inordinate delectations. And therefore it ſhall not be lawfull on the
+hollye dayes to vſe dauncinges, whether they be ſen<g ref="char:EOLhyphen"/>ſuall <pb facs="tcp:183665:28"/>
+or prepared for ſenſuallitye.</p>
+            <p>
+               <hi>Aemilius Probus</hi> in the life of <hi>Epami<g ref="char:EOLhyphen"/>nondas,</hi>
+ſaieth, that ſinging and dauncing amonge the <hi>Romans</hi> were ſmalie
+regar<g ref="char:EOLhyphen"/>ded, when among the <hi>Gretians</hi> they were had in great
+eſtimation. <hi>Saluſt</hi> in his <hi>Catilinaria</hi> weighteth that
+<hi>Sempronia,</hi> a certeine lewde and laſcinious woman, was trymlier
+trained vp in ſinging and dauncing, the<g ref="char:cmbAbbrStroke">̄</g> be ſéemed a honeſt
+Matron. And in the ſame place, he callteh theſe twoo inſtrumentes of
+exceſſe in carnall pleaſure. <hi>Cicere</hi> in the third booke of his
+offeces, is of this minde, that an honeſt &amp; vertuous man, will not daunce
+in the co<g ref="char:EOLhyphen"/>mon concours of people, though he might therby become y<hi rend="sup">e</hi> greteſt
+heire in y<hi rend="sup">e</hi> world. And in his oration, which he made after his returne to the
+<hi>Senate,</hi> hee termed in remoche <hi>Aulus Gabinus</hi> his aduerſarye
+O trickſye dauncer. It was layde in <hi>Lu<g ref="char:EOLhyphen"/>tius Murena</hi> his diſhe as a
+faulte, that he daunced in <hi>Aſia:</hi> with the ſame alſo was kinge
+<hi>Deiotarus</hi> hit in the téeth. <hi>Cicero</hi> for <hi>Murena</hi>
+aunſweres, that no ſober per<g ref="char:EOLunhyphen"/>ſon daunceth, eyther in ſolitarines,
+either in an honeſt and moderat banquet, except he be out of his wittes. The
+ſame <hi>Cicero</hi> 
+               <pb facs="tcp:183665:29"/> in his Philip. among other vices
+vpbrai<g ref="char:EOLhyphen"/>ded <hi>Antonius</hi> with dauncinge. It ap<g ref="char:EOLhyphen"/>peareth furthermore, that
+y<hi rend="sup">e</hi> men of the Eaſt and Weſt were not of like diſpo<g ref="char:EOLhyphen"/>ſition: they being
+of a merye minde and nimble bodies, ſo much the more delight in dauncing. For
+to let others paſſe, <hi>Da<g ref="char:EOLhyphen"/>uid</hi> daunced in open ſight.</p>
+            <p>And they which now trauell to vs out of <hi>Syria,</hi> teſtifye
+y<hi rend="sup">e</hi> the Chriſtians which inhabite thoſe Regions, vpon the daye of the
+Lordes reſurrection, and likewiſe vpon other famous Feſtiualles, come to
+the Church with harpes and Harmonie, ſinging pſalmes and dauncing togyther.
+For thoſe ſpyrites of thoſe people are quicke and quiuer, where the
+ſprrites of our Countrye men are heauy and lum<g ref="char:EOLhyphen"/>piſhe, yet for al that, they
+reporte that they daunce diſcretlye and modeſt<g ref="char:EOLhyphen"/>ly, the men and women one
+from another. (⸫)</p>
+            <trailer>FJNIS.</trailer>
+            <pb facs="tcp:183665:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
